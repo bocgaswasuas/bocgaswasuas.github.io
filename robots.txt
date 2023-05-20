@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocgaswasuas.github.io/sitemap.xml
